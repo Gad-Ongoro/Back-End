@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+docker-compose.yml
+.dockerignore
+.git
+.gitignore
+.DS_Store
+*.md
